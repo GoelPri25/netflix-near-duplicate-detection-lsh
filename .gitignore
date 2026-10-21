@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Large input and generated results
+user_movie_rating.npy
+result.txt
